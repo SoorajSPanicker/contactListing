@@ -1,0 +1,12 @@
+{
+    "contacts":[
+        {"name":"amal N","profile":"https://i.postimg.cc/t7G6qFh8/uu1.jpg","email":"amal123@gmail.com","mobile":"+919897654321","location":"kochi"},
+        {"name":"john wick","profile":"https://i.postimg.cc/RV1wNdVR/pp5.jpg","email":"johnw234@gmail.com","mobile":"+919891000321","location":"kochi"},
+        {"name":"george","profile":"https://i.postimg.cc/sf6NHDpY/photo-1633332755192-727a05c4013d.jpg","email":"george45@gmail.com","mobile":"+919991000391","location":"kochi"},
+        {"name":"abhisekh","profile":"https://i.postimg.cc/qR0TMpmQ/pp1.webp","email":"abhi145@gmail.com","mobile":"+919991100394","location":"idukki"},
+        {"name":"michael","profile":"https://i.postimg.cc/j2pvtScS/pp6.jpg","email":"mike@gmail.com","mobile":"+919989900394","location":"kollam"},
+        {"name":"ramzan","profile":"https://i.postimg.cc/g04WJffW/pp4.jpg","email":"ramzan456@gmail.com","mobile":"+919989922394","location":"thrissur"},
+        {"name":"robert","profile":"https://i.postimg.cc/MpqZpbv1/pp3.jpg","email":"robert56@gmail.com","mobile":"+919989978994","location":"wayanad"}
+
+    ]
+}
